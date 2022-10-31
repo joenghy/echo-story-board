@@ -128,7 +128,7 @@ The following APIs are supported:
   - GET /api/story/stat/{storyName}
   Example:
   ```
-    curl --location --request GET 'localhost:8080/api/story/stat/Lemon.png' --header 'type: 1'
+    curl --location --request GET 'localhost:8080/api/story/stat/Lemon.png'
   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
