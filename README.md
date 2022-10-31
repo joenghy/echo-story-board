@@ -32,6 +32,7 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#references">References</a></li>
   </ol>
 </details>
 
@@ -55,6 +56,10 @@ To get a local copy up and running follow these simple example steps.
 * Maven
   ```sh
   brew install maven
+  ```
+* Node
+  ```sh
+  brew install node
   ```
 
 ### Installation
@@ -137,6 +142,7 @@ The following APIs are supported:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- References -->
 ## References
 
 - https://www.npmjs.com/package/buffer
