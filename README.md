@@ -7,7 +7,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">Echo Story Boardr</h3>
+  <h3 align="center">Echo Story Board</h3>
 
   <p align="center">
     A website for posting and downloading stories.
