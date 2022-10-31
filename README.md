@@ -93,6 +93,7 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    npm start
    ```
+9. Go to http://localhost:3000 in browser (preferably Google Chrome)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
