@@ -137,6 +137,19 @@ The following APIs are supported:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## References
+
+- https://www.npmjs.com/package/buffer
+- https://www.npmjs.com/package/chart.js
+- https://www.npmjs.com/package/chartjs-adapter-date-fns
+- https://www.npmjs.com/package/date-fns
+- https://www.npmjs.com/package/dom-to-image
+- https://www.npmjs.com/package/draft-js
+- https://www.npmjs.com/package/jquery
+- https://www.npmjs.com/package/react-draft-wysiwyg
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
